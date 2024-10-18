@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\C++\Projects\SFML\SFML\main.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(206,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(206,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(209,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(209,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(212,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\Projects\SFML\SFML\main.cpp(212,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> E:\C++\Projects\SFML\x64\Debug\SFML.exe

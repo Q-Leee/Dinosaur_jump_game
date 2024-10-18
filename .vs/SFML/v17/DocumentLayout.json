@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Projects\\SFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA777CB-59FF-4287-BBC4-E21946CAA6C8}|SFML\\SFML.vcxproj|E:\\C\u002B\u002B\\Projects\\SFML\\SFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBA777CB-59FF-4287-BBC4-E21946CAA6C8}|SFML\\SFML.vcxproj|solutionrelative:SFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Projects\\SFML\\SFML\\main.cpp",
+              "RelativeDocumentMoniker": "SFML\\main.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Projects\\SFML\\SFML\\main.cpp",
+              "RelativeToolTip": "SFML\\main.cpp",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T12:49:24.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
